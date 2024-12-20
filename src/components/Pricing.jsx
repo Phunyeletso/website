@@ -31,7 +31,7 @@ const Pricing = () => {
 
           <p className="mb-6">In this new era, music isn’t just something you listen to — it’s something you own, share, and preserve forever on the blockchain.</p>
 
-          <p className="mb-6">But the future of music won’t be shaped by me — it’s yours to define. The creators, the innovators, the dreamers... the next great music revolution begins with you.</p>
+          <p className="mb-6">The future of music is shaped by us — it’s yours to define. The creators, the innovators, the dreamers... the next great music revolution begins with us.</p>
 
           <p className="mb-6">Your challenge is simple:</p>
           <p className="mb-6 font-bold">Create. Share. Inspire.</p>
